@@ -69,3 +69,11 @@ button:hover {
 .operator {
     color: var(--color_6);
 }
+
+.clear {
+    grid-column: span 3;
+}
+
+.span2 {
+    grid-column: span 2;
+}
