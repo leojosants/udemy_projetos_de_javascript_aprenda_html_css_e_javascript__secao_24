@@ -53,7 +53,7 @@ body {
 button {
     height: 60px;
     border: none;
-    font-size: 1rem;
+    font-size: 1.5rem;
     cursor: pointer;
     transition: 0.3s;
 }
